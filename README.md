@@ -1,4 +1,4 @@
-# envio-emails.github.io
+# envio-emails
 Envio de E-mails simples utilizando o PHP
 
 Nesse repositório adicionamos o arquivo PHP e um arquivo HTML para fácil leitura e aplicação.
