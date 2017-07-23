@@ -10,6 +10,9 @@ Versão 1.1 - Alterações
   - Adicionado Modal para mensagem de envio ou erro
   - Adicionado arquivo _mensagem.php
 
+Versão 1.2 - Alterações
+  - Corrigido o Modal que estava sobreposto a página e corrigido mensagem a ser retornada
+
 Espero que gostem :D
 
 Fernando Aranha - ferspider3@hotmail.com
