@@ -13,6 +13,9 @@ Versão 1.1 - Alterações
 Versão 1.2 - Alterações
   - Corrigido o Modal que estava sobreposto a página e corrigido mensagem a ser retornada
 
+Versão 1.3 - Alterações
+  - Arquivo com a [e-mail.php] base padrão, os arquivos [_mensagem.php] e [index.php] estão com a versão de produção com Modal.
+
 Espero que gostem :D
 
 Fernando Aranha - ferspider3@hotmail.com
